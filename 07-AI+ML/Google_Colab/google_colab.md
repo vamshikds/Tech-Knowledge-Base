@@ -29,4 +29,5 @@ Output of the above table is as follows:
 Bold: `**bold text**` -> **bold text**  
 italics: `*italic text*` -> *italic text*  
 Inline code: `` `code_variable` `` -> `inline code`  
-Qoute: ` > this is a quote.` -> > This is a quote.
+Qoute: ` > this is a quote.` -> 
+> this is a quote.
