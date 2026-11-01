@@ -26,6 +26,7 @@ Output of the above table is as follows:
 |2. |Krishna|25|25|98|
 |3. |Srilakshmi|28|58|67|
 ## 4. Text Stylling:
-Bold: `**bold text**` -> **bold text**
-italics: `*italic text*` -> *italic text*
-Inline code: `` `code_variable` `` -> `inline code`
+Bold: `**bold text**` -> **bold text**  
+italics: `*italic text*` -> *italic text*  
+Inline code: `` `code_variable` `` -> `inline code`  
+Qoute: ` > this is a quote.` -> > This is a quote.
